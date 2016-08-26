@@ -1,2 +1,1 @@
-# SofaFriend
-every people can exchange your skill that you are good at  for free, and then make SofaFriends.  
+im a programmer working on android. and just for two year. for now i make a good project about social contact ..if there are some problem about project .. welcome your good propose..
